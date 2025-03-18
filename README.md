@@ -82,23 +82,23 @@ The analysis revealed that genes associated with NMF component 1 are involved in
 ![image](https://github.com/user-attachments/assets/e4cab465-c48d-4a47-915c-1b8966084021)
 - **Figure 1:** Distribution of breast cancer subtypes and their recurrent mutations.
 
-- ![image](https://github.com/user-attachments/assets/68eba636-23a3-4bd5-af53-6ee9a209a907)
+![image](https://github.com/user-attachments/assets/68eba636-23a3-4bd5-af53-6ee9a209a907)
 - **Figure 2:** Kaplan-Meier survival plot for nodal stage groups
 
-- ![image](https://github.com/user-attachments/assets/f97f981f-3818-4011-9563-04bf7e25cb36)
+![image](https://github.com/user-attachments/assets/f97f981f-3818-4011-9563-04bf7e25cb36)
 - **Figure 3:** The plot allows us to compare the survival outcomes of different nodal stage groups and understand if there 
 are significant differences in survival probabilities among them.
 
-- ![image](https://github.com/user-attachments/assets/d1e97993-59e0-4537-8584-c4a64838bc1a)
+![image](https://github.com/user-attachments/assets/d1e97993-59e0-4537-8584-c4a64838bc1a)
 - **Figure 4:** Correlation boxplot for CNV and gene expression.
 
-- ![image](https://github.com/user-attachments/assets/a1bfad00-175e-4a53-bc40-b496a0f11ccf)
+![image](https://github.com/user-attachments/assets/a1bfad00-175e-4a53-bc40-b496a0f11ccf)
 - **Figure 5:** Joint NMF scatterplot showing patient clusters colored by histological subtype and estrogen receptor status.
 
-
+![image](https://github.com/user-attachments/assets/a4a49026-8cc9-4829-8d98-82a972c4c28d)
 - **Figure 6:** Heatmap of NMF components highlighting omics co-regulation patterns.
 
-- 
+![image](https://github.com/user-attachments/assets/f2c5dcb9-697c-4572-abc5-cde4a8a181df)
 - **Figure 7:** This shows expression of the genes associated with the first factor are significantly overlapping the 
 biological pathways, such as acute inflammatory response, regulation of protein phosphorylation, and the regulation 
 of chemotaxis
