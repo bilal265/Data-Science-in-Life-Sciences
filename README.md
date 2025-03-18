@@ -85,17 +85,21 @@ The analysis revealed that genes associated with NMF component 1 are involved in
 - ![image](https://github.com/user-attachments/assets/68eba636-23a3-4bd5-af53-6ee9a209a907)
 - **Figure 2:** Kaplan-Meier survival plot for nodal stage groups
 
+- ![image](https://github.com/user-attachments/assets/f97f981f-3818-4011-9563-04bf7e25cb36)
+- **Figure 3:** The plot allows us to compare the survival outcomes of different nodal stage groups and understand if there 
+are significant differences in survival probabilities among them.
+
 - ![image](https://github.com/user-attachments/assets/d1e97993-59e0-4537-8584-c4a64838bc1a)
-- **Figure 3:** Correlation boxplot for CNV and gene expression.
+- **Figure 4:** Correlation boxplot for CNV and gene expression.
 
 - ![image](https://github.com/user-attachments/assets/a1bfad00-175e-4a53-bc40-b496a0f11ccf)
-- **Figure 4:** Joint NMF scatterplot showing patient clusters colored by histological subtype and estrogen receptor status.
+- **Figure 5:** Joint NMF scatterplot showing patient clusters colored by histological subtype and estrogen receptor status.
 
-- ![image](https://github.com/user-attachments/assets/ee2c3fae-56bf-4099-b5c6-8937c0c58932)
-- **Figure 5:** Heatmap of NMF components highlighting omics co-regulation patterns.
 
-- ![image](https://github.com/user-attachments/assets/25fd2c98-5ab7-47e5-9162-64c26c6371a4)
-- **Figure 6:** This shows expression of the genes associated with the first factor are significantly overlapping the 
+- **Figure 6:** Heatmap of NMF components highlighting omics co-regulation patterns.
+
+- 
+- **Figure 7:** This shows expression of the genes associated with the first factor are significantly overlapping the 
 biological pathways, such as acute inflammatory response, regulation of protein phosphorylation, and the regulation 
 of chemotaxis
 
