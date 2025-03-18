@@ -1,5 +1,3 @@
-# Data-Science-in-Life-Sciences
-
 # Comprehensive Multi-Omics Analysis of Invasive Lobular and Ductal Breast Cancer
 
 ## Project Overview
